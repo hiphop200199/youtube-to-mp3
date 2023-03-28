@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital@1&display=swap');
+@mixin textSetting($size){
+   position: relative;
+    font-size: $size;
+    z-index: 1;
+}

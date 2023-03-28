@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+    color: #d4ebf8;
+}
+body{
+    counter-reset: my-counter;
+    overflow: hidden;
+}
